@@ -1,10 +1,10 @@
 ---?video=https://data.cyverse.org/dav-anon/iplant/home/tswetnam/train_to_graz.mp4
 
-@snap[north span-100 text-center font-cabin text-white]
+@snap[north span-100 text-center]
 ![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
-### TU Graz, Austria 
-##### November 19, 2019
-##### Tyson L. Swetnam 
+@fa[quote-graphql font-montserrat text-white](TU Graz, Austria) 
+@fa[quote-graphql font-montserrat text-white](November 19, 2019)
+@fa[quote-graphql font-montserrat text-white](Tyson L. Swetnam) 
 @snapend 
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
