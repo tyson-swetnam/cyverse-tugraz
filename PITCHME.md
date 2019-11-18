@@ -188,13 +188,14 @@ Project Management
 
 @snap[west list-content-verbose span-100 text-white]
 @ul
-- Communication: Slack @fab[slack fa-lg] vs Gitter @fab[gitter fa-lg]
-- Collaboration: GitHub @fab[github fa-lg] vs GitLab @fab[gitlab fa-lg]
+- Communication: Slack @fab[slack fa-lg] or Gitter @fab[gitter fa-lg]
+- Collaboration: GitHub @fab[github fa-lg] or GitLab @fab[gitlab fa-lg]
 - Documentation: ReadTheDocs or Bookdown or Protocols.io
 @ulend
 @snapend
 
 ---?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
+
 # Have Data, Will Travel
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
@@ -207,10 +208,17 @@ Project Management
 
 ### Getting stuff done.
 
-<span style="font-size: 100%; color:#FF0000"> 1) Do the things. <!-- .element: class="fragment" -->
-<span style="font-size: 120%; color:#F9FF33"> → 2) Do the things right. <!-- .element: class="fragment" -->
+@snap[west span-33]
+@fa[quote-graphql font-montserrat text-yellow text-13](Do the things)
+@snapend
 
-<span style="font-size: 200%; color:#58FF33"> → 3) Do the things well. <!-- .element: class="fragment" -->
+@snap[midpoint span-33 fragment]
+@fa[quote-graphql font-montserrat text-white text-13]( Do the things right)
+@snapend
+
+@snap[east span-33 fragment]
+@fa[quote-graphql font-montserrat text-white text-13]( Do the things well!)
+@snapend
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
