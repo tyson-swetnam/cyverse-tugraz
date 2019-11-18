@@ -208,6 +208,7 @@ Project Management
 
 @snap[north span-100]
 @fa[quote-graphql font-montserrat text-black text-18](Getting stuff done.)
+@snapend
 
 @snap[west span-33]
 @fa[quote-graphql font-montserrat text-red text-15](Do the things.)
