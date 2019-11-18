@@ -10,26 +10,88 @@
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 @snap[north]
-### Key Concepts
+@fa[quote-graphql font-montserrat text-black text-14](Key Concepts)
 @snapend
 
 @snap[midpoint list-content-verbose span-100 font-montserrat text-white text-09]
 @ul
-- Basics of Linux Distributions
-- Version Control with Git & GitHub
 - Internal and External Communication
 - Websites and Documentation
+- Basics of Linux Distributions
+- Basics of Containers
+- Version Control with Git & GitHub
+@ulend
+@snapend
+
+---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
+@fa[quote-graphql font-montserrat text-white text-11](Welcome to the digital world)
+
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
+
+@fa[quote-graphql span-100 font-montserrat text-black text-13](Take the red pill, and find out how deep the rabithole goes, or take the blue pill and wake up tomorrow in your own bed.)
+
+<img src="https://media.giphy.com/media/1CNsm9ZkHF0m4/giphy.gif" height="500">
+
+@snap[west span-50]
+@fa[quote-graphql font-montserrat text-white text-11](CyVerse)
+@snapend
+
+@snap[east span-50]
+@fa[quote-graphql font-montserrat text-white text-11](Status Quo)
+@snapend
+
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
+
+@snap[north-west span-50 text-black]
+Productivity Software
+@snapend
+
+@snap[west list-content-verbose span-50 text-white fragment]
+@ul
+- Communication: Slack @fab[slack fa-lg] or Gitter @fab[gitter fa-lg] or Discord @fab[discord fa-lg] or Mattermost or Mastodon @fab[mastodon fa-lg]
+- Organization: Confluence @fab[confluence fa-lg] or Jira @fab[jira fa-lg] or Github @fab[github-square fa-lg]
+@ulend
+@snapend
+
+@snap[north-west text-black]
+Project Management
+@snapend
+
+@snap[west list-content-verbose span-50 text-white fragment]
+- Version Control GitHub @fab[github fa-lg] or GitLab @fab[gitlab fa-lg] or BitBucket @fab[bitbucket fa-lg]
+- Documentation: ReadTheDocs vs Bookdown vs GitHub Pages
+- Training: QUBES vs Protocols.io
+
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
+
+@fa[quote-graphql font-montserrat text-black text-11](Don't take too long deciding)
+<img src="https://media.giphy.com/media/3rgXBAKopU55wtfp6g/giphy.gif" width 500>
+@fa[quote-graphql font-montserrat text-white text-11](Pick what your team needs are and go!)
+
+
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
+
+@snap[north-west]
+Project Management
+@snapend
+
+@snap[west list-content-verbose span-100 text-white]
+@ul
+
+- Collaboration: GitHub @fab[github fa-lg] or GitLab @fab[gitlab fa-lg]
+- Documentation Webpages: ReadTheDocs or Bookdown or Protocols.io
 @ulend
 @snapend
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 <img src="https://media.giphy.com/media/ize2r20ICQONq/giphy.gif" width="600">
-@fa[quote-graphql font-montserrat text-white text-11 fragment](really?)
+
+@fa[quote-graphql font-montserrat text-white text-13 fragment](really?)
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
-@fa[quote-graphql font-montserrat text-black text-12](Why are YOU here?)
+@fa[quote-graphql font-montserrat text-black text-12](So, why are YOU here?)
 
 <img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="500">
 
@@ -86,23 +148,17 @@
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
-@fa[quote-graphql font-montserrat text-black text-11](Change is scary!)
-
-<img src="https://media.giphy.com/media/1CNsm9ZkHF0m4/giphy.gif" height="500">
-
-@snap[west span-50 fragment]
-@fa[quote-graphql font-montserrat text-white text-11](CyVerse)
+@snap[midpoint]
+<img src="https://media.giphy.com/media/7wkFb7g04vyMg/giphy.gif" height="500">
 @snapend
 
-@snap[east span-50 fragment]
-@fa[quote-graphql font-montserrat text-white text-11](Status Quo)
-@snapend
-
----?color=linear-gradient(180deg, white 30%, #567AD2 50%)
-
-@fa[quote-graphql font-montserrat text-black text-11](A brave colorful new place)
-
+@snap[midpoint fragment]
 <img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="500">
+@snapend
+
+@snap[south span-100 fragment]
+@fa[quote-graphql font-montserrat text-black text-11](Welcome to the wonderful world of  brave colorful new place)
+@snapend
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
@@ -145,60 +201,6 @@ Data Science
 Domain Science 
 @snapend
 
----?color=linear-gradient(180deg, white 30%, #567AD2 50%)
-
-@snap[north-west]
-Productivity Software
-@snapend
-
-@snap[west list-content-verbose span-100 text-white]
-@ul
-- Slack @fab[slack fa-lg] vs Gitter @fab[gitter fa-lg]
-- GitHub @fab[github fa-lg] vs GitLab @fab[gitlab fa-lg] vs BitBucket @fab[bitbucket fa-lg]
-- ReadTheDocs vs Bookdown vs GitHub Pages
-- QUBES vs Protocols.io
-@ulend
-@snapend
-
----?color=linear-gradient(180deg, white 30%, #567AD2 50%)
-@fa[quote-graphql font-montserrat text-white text-11](Don't take to long)
-<img src="https://media.giphy.com/media/3rgXBAKopU55wtfp6g/giphy.gif" width 500>
-@fa[quote-graphql font-montserrat text-white text-11](Pick what your team needs and go)
-
----?color=linear-gradient(180deg, white 30%, #567AD2 50%)
-
----?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
-@fa[quote-graphql font-montserrat text-white text-11](Welcome to the digital world)
-
----?image=https://media.giphy.com/media/9uI9WOCm7WCf4wwhro/giphy.gif
-@snap[south text-white]
-Yep.
-@snapend
-
----?image=https://media.giphy.com/media/iOXMcT2qEiIUg/giphy.gif
-@snap[north text-white]
-Don't Panic
-@snapend
-
----?color=linear-gradient(180deg, white 30%, #567AD2 50%)
-
-@snap[north-west]
-Project Management
-@snapend
-
-@snap[west list-content-verbose span-100 text-white]
-@ul
-- Communication: Slack @fab[slack fa-lg] or Gitter @fab[gitter fa-lg]
-- Collaboration: GitHub @fab[github fa-lg] or GitLab @fab[gitlab fa-lg]
-- Documentation: ReadTheDocs or Bookdown or Protocols.io
-@ulend
-@snapend
-
----?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
-
-# Have Data, Will Travel
-
----?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 ### Building the "best" workflows and pipelines takes time and experience
 
@@ -207,7 +209,7 @@ Project Management
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 @snap[north span-100]
-@fa[quote-graphql font-montserrat text-black text-18](Getting stuff done.)
+@fa[quote-graphql font-montserrat text-black text-18](Most Important thing: Get the stuff done.)
 @snapend
 
 @snap[west span-33]
