@@ -103,7 +103,7 @@
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
-## Change is scary
+@fa[quote-graphql font-montserrat text-white text-11](Change is scary)
 <img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="500">
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
@@ -138,23 +138,22 @@ Productivity Software
 
 @snap[west list-content-verbose span-100 text-white]
 @ul
-- @fab[slack fa-lg] vs @fab[gitter fa-lg]
-- @fab[github fa-lg] vs @fab[gitlab fa-lg]
+- Slack @fab[slack fa-lg] vs Gitter @fab[gitter fa-lg]
+- GitHub @fab[github fa-lg] vs GitLab @fab[gitlab fa-lg]
 - ReadTheDocs vs Bookdown vs GitHub Pages
 - QUBES vs Protocols.io
 @ulend
 @snapend
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
-
-## Don't take to long 
+@fa[quote-graphql font-montserrat text-white text-11](Don't take to long)
 <img src="https://media.giphy.com/media/3rgXBAKopU55wtfp6g/giphy.gif" width 500>
-### Pick what your team needs and go
+@fa[quote-graphql font-montserrat text-white text-11](Pick what your team needs and go)
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 ---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
-### Welcome to the digital world
+@fa[quote-graphql font-montserrat text-white text-11](Welcome to the digital world)
 
 ---?image=https://media.giphy.com/media/9uI9WOCm7WCf4wwhro/giphy.gif
 @snap[south text-white]
@@ -174,9 +173,9 @@ Project Management
 
 @snap[west list-content-verbose span-100 text-white]
 @ul
-- Communication - Slack or Gitter
-- Collaboration - Git
-- Documentation - ReadTheDocs or Bookdown or Protocols.io
+- Communication: Slack @fab[slack fa-lg] vs Gitter @fab[gitter fa-lg]
+- Collaboration: GitHub @fab[github fa-lg] vs GitLab @fab[gitlab fa-lg]
+- Documentation: ReadTheDocs or Bookdown or Protocols.io
 @ulend
 @snapend
 
@@ -202,7 +201,7 @@ Project Management
 
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
 @snap[north text-white]
-Next ...
+Next Time ...
 @snapend
 
 @snap[south text-white]
@@ -215,6 +214,6 @@ Peer Review
 
 GIFs by Giphy.com
 
-All digital images shown this presentation are available online and are the property of their creators, their web addresses are visible in the source code of this presentation at: https://github.com/tyson-swetnam/lemon-labs/PITCHME.md 
+All digital images shown this presentation are available online and are the property of their creators, their web addresses are visible in the source code of this presentation at: https://github.com/tyson-swetnam/cyverse-tugraz/PITCHME.md 
 
 ---?image=assets/imagery/endslide.png
