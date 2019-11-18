@@ -1,20 +1,22 @@
----?image=https://media.giphy.com/media/2gkYgYeACrLbi/giphy.gif
-<span style="font-weight: bold; font-size: 200%; color:#ffffff"> Foundations of Open Source Science </span> 
-  
-<span style="font-weight: bold; font-size: 100%; color:#ffffff"> June 2, 2019 </span> 
+---?video=https://data.cyverse.org/dav-anon/iplant/home/tswetnam/train_to_graz.mp4
+@snap[north span-100 text-center font-cabin text-blue]
+@fa[quote-left quote-graphql quote-right](What are you proposing?)
+![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
+<span style="font-weight: bold; font-size: 100%; color:#ffffff"> November 19, 2019 </span> 
 
 <span style="font-weight: bold; font-size: 120%; color:#ffffff"> Tyson L. Swetnam </span>
+@snapend 
 
 +++
 
-@snap[north-west]
-Today Key Concepts
+@snap[north]
+Key Concepts
 @snapend
 
-@snap[west list-content-verbose span-100 text-white]
+@snap[midpoint list-content-verbose span-100 text-white]
 @ul
-- Basics of Linux
-- Version Control with Git
+- Basics of Linux Distributions
+- Version Control with Git & GitHub
 - Internal and External Communication
 - Websites and Documentation
 @ulend
@@ -23,24 +25,30 @@ Today Key Concepts
 +++
 
 ## Why are YOU here?
+
 <img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="500">
 
 ---?image=https://media.giphy.com/media/YDj8Ot6mIbJYs/giphy.gif
-@snap[north text-smallcaps]<span style="font-size: 200%; color:#58FF33"> Just kidding, this is part of the talk <!-- .element: class="fragment" -->@snapend
+
+@snap[north text-smallcaps]<span style="font-size: 200%; color:#58FF33"> Just kidding, this is part of the talk <!-- .element: class="fragment" -->
+@snapend
 
 +++
 
 ##### Modern web, cloud, and HPC are dominated by Linux and its derivatives
+
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" height="300"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" height="300">
 
 <span style="font-weight: bold; font-size: 50%; color:#ffffff"> source: https://en.wikipedia.org/wiki/Usage_share_of_operating_systems </span>
 
-+++
-@snap[north-west]
-Basics of Linux
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
+
+
+@snap[north]
+Basics of Linux Distributions
 @snapend
 
-@snap[west list-content-verbose span-100 text-white]
+@snap[west list-content-verbose span-50 text-white]
 @ul
 - Pro: Open Source (Free!)
 - Pro: Infinitely Customizable 
