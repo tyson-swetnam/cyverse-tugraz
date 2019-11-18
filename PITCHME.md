@@ -86,6 +86,16 @@
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
+@fa[quote-graphql font-montserrat text-black text-11](Change is scary!)
+
+<img src="https://media.giphy.com/media/1CNsm9ZkHF0m4/giphy.gif" height="500">
+
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
+
+<img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="500">
+
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
+
 [Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
 
 **54. Beware of the Turing Tarpit in which everything is possible but nothing of interest is easy.**
@@ -100,11 +110,6 @@
 <img src="https://imgs.xkcd.com/comics/python_environment_2x.png" height="400"> <!-- .element: class="fragment" --> <img src="https://pbs.twimg.com/media/DB6QcoNVYAA-w6N.jpg" height="400"> <!-- .element: class="fragment" -->
 
  <span style="font-weight: bold; font-size: 50%; color:#FF0000"> Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf </span> 
-
----?color=linear-gradient(180deg, white 30%, #567AD2 50%)
-
-@fa[quote-graphql font-montserrat text-white text-11](Change is scary)
-<img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="500">
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
