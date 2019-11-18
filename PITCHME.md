@@ -28,7 +28,7 @@
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
-@fa[quote-graphql span-100 font-montserrat text-black text-13](Take the red pill, and find out how deep the rabithole goes, or take the blue pill and wake up tomorrow in your own bed.)
+@fa[quote-graphql span-100 font-montserrat text-black text-11](You take the blue pill — the story ends, you wake up in your bed and believe whatever you want to believe. You take the red pill — you stay in Wonderland and I show you how deep the rabbit-hole goes.)
 
 <img src="https://media.giphy.com/media/1CNsm9ZkHF0m4/giphy.gif" height="500">
 
