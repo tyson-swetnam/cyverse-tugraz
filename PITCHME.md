@@ -2,9 +2,9 @@
 
 @snap[north span-100 text-center]
 ![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
-@fa[quote-graphql font-montserrat text-white text-09](TU Graz, Austria) 
-@fa[quote-graphql font-montserrat text-white text-06](November 19, 2019)
-@fa[quote-graphql font-montserrat text-white text-06](Tyson L. Swetnam) 
+@fa[quote-graphql font-montserrat text-white text-11](TU Graz, Austria) 
+@fa[quote-graphql font-montserrat text-white text-09](November 19, 2019)
+@fa[quote-graphql font-montserrat text-white text-09](Tyson L. Swetnam) 
 @snapend 
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
@@ -13,7 +13,7 @@
 ### Key Concepts
 @snapend
 
-@snap[midpoint list-content-verbose span-100 text-white]
+@snap[midpoint list-content-verbose span-100 font-montserrat text-white text-09]
 @ul
 - Basics of Linux Distributions
 - Version Control with Git & GitHub
@@ -24,19 +24,19 @@
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
-## Why are YOU here?
+@fa[quote-graphql font-montserrat text-black text-12](Why are YOU here?)
 
 <img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="500">
 
 ---?image=https://media.giphy.com/media/YDj8Ot6mIbJYs/giphy.gif
 
-@snap[midpoint fragment text-white]
-##### Just kidding, this is a part of the talk 
+@snap[midpoint fragment]
+@fa[quote-graphql font-montserrat text-white text-11](Just kidding, this is a part of the talk) 
 @snapend
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 @snap[north span-100]
-##### Modern web, cloud, and HPC are dominated by Linux and its derivatives
+@fa[quote-graphql font-montserrat text-black text-11](Modern web, cloud, and HPC are dominated by Linux and its derivatives)
 @snapend
 
 @snap[west span-50]
@@ -44,7 +44,7 @@
 @snapend
 
 @snap[east span-50]
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" height="400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" height="430">
 @snapend
 
 @snap[south span-100]
