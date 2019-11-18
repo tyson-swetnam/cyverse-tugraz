@@ -139,7 +139,7 @@ Productivity Software
 @snap[west list-content-verbose span-100 text-white]
 @ul
 - Slack @fab[slack fa-lg] vs Gitter @fab[gitter fa-lg]
-- GitHub @fab[github fa-lg] vs GitLab @fab[gitlab fa-lg]
+- GitHub @fab[github fa-lg] vs GitLab @fab[gitlab fa-lg] vs BitBucket @fab[bitbucket fa-lg]
 - ReadTheDocs vs Bookdown vs GitHub Pages
 - QUBES vs Protocols.io
 @ulend
