@@ -90,7 +90,17 @@
 
 <img src="https://media.giphy.com/media/1CNsm9ZkHF0m4/giphy.gif" height="500">
 
+@snap[south-west span-50 fragment]
+@fa[quote-graphql font-montserrat text-white text-11](CyVerse)
+@snapend
+
+@snap[south-east span-50 fragment]
+@fa[quote-graphql font-montserrat text-white text-11](Status Quo)
+@snapend
+
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
+
+@fa[quote-graphql font-montserrat text-black text-11](A brave colorful new place)
 
 <img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="500">
 
