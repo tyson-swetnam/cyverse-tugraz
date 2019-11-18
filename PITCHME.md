@@ -1,6 +1,6 @@
 ---?video=https://data.cyverse.org/dav-anon/iplant/home/tswetnam/train_to_graz.mp4
 
-@snap[north span-100 text-center font-cabin text-blue]
+@snap[north span-100 text-center font-cabin text-white]
 ![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
 ### TU Graz, Austria 
 ##### November 19, 2019
