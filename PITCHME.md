@@ -15,8 +15,9 @@
 
 @snap[midpoint list-content-verbose span-100 font-montserrat text-white text-09]
 @ul
-- Internal and External Communication
+- Communication
 - Websites and Documentation
+- Project Management
 - Basics of Linux Distributions
 - Basics of Containers
 - Version Control with Git & GitHub
@@ -46,18 +47,18 @@
 Productivity Software
 @snapend
 
-@snap[west list-content-verbose span-50 text-white fragment]
+@snap[west list-content-verbose span-50 text-black fragment]
 @ul
 - Communication: Slack @fab[slack fa-lg] or Gitter @fab[gitter fa-lg] or Discord @fab[discord fa-lg] or Mattermost or Mastodon @fab[mastodon fa-lg]
 - Organization: Confluence @fab[confluence fa-lg] or Jira @fab[jira fa-lg] or Github @fab[github-square fa-lg]
 @ulend
 @snapend
 
-@snap[north-west text-black]
+@snap[north-east text-black]
 Project Management
 @snapend
 
-@snap[west list-content-verbose span-50 text-white fragment]
+@snap[east list-content-verbose span-50 text-black fragment]
 - Version Control GitHub @fab[github fa-lg] or GitLab @fab[gitlab fa-lg] or BitBucket @fab[bitbucket fa-lg]
 - Documentation: ReadTheDocs vs Bookdown vs GitHub Pages
 - Training: QUBES vs Protocols.io
@@ -68,20 +69,6 @@ Project Management
 <img src="https://media.giphy.com/media/3rgXBAKopU55wtfp6g/giphy.gif" width 500>
 @fa[quote-graphql font-montserrat text-white text-11](Pick what your team needs are and go!)
 
-
----?color=linear-gradient(180deg, white 30%, #567AD2 50%)
-
-@snap[north-west]
-Project Management
-@snapend
-
-@snap[west list-content-verbose span-100 text-white]
-@ul
-
-- Collaboration: GitHub @fab[github fa-lg] or GitLab @fab[gitlab fa-lg]
-- Documentation Webpages: ReadTheDocs or Bookdown or Protocols.io
-@ulend
-@snapend
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
