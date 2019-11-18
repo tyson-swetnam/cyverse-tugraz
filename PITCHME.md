@@ -54,16 +54,16 @@
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 @snap[north-west span-33]
-##### Basics of Linux Distributions
+@fa[quote-graphql font-montserrat text-black text-11](Basics of Linux Distributions)
 @fab[linux fa-lg] @fab[ubuntu fa-lg] @fab[centos fa-lg] 
 @snapend
 
 @snap[west span-33 fragment]
-@box[bg-green text-white rounded box-padding](Pro # Open Source, Infinitely Customizable)
+@box[bg-green font-montserrat text-white text-09 rounded box-padding](Pro # Open Source, Infinitely Customizable)
 @snapend
 
 @snap[south-west span-33 fragment]
-@box[bg-orange text-white rounded box-padding](Con # Difficult to use, Dependencies)
+@box[bg-orange font-montserrat text-white text-09 rounded box-padding](Con # Difficult to use, Dependencies)
 @snapend
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
