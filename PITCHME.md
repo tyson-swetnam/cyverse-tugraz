@@ -53,7 +53,7 @@
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
-@snap[north-west span-33]
+@snap[north-west span-50]
 @fa[quote-graphql font-montserrat text-black text-11](Basics of Linux Distributions)
 @fab[linux fa-lg] @fab[ubuntu fa-lg] @fab[centos fa-lg] @fab[suse fa-lg] @fab[redhat fa-lg] @fab[fedora fa-lg]
 @snapend
