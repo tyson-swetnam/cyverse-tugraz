@@ -33,13 +33,15 @@
 @snap[north text-smallcaps]<span style="font-size: 200%; color:#58FF33"> Just kidding, this is part of the talk <!-- .element: class="fragment" -->
 @snapend
 
-+++
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 ##### Modern web, cloud, and HPC are dominated by Linux and its derivatives
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" height="400"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" height="400">
 
 <span style="font-weight: bold; font-size: 50%; color:#ffffff"> source: https://en.wikipedia.org/wiki/Usage_share_of_operating_systems </span>
+
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 @snap[north-west span-33]
 ##### Basics of Linux Distributions
@@ -54,8 +56,7 @@
 @box[bg-orange text-white rounded box-padding](Con # Difficult to use, Dependencies)
 @snapend
 
-
-+++
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 [Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
 
@@ -63,7 +64,7 @@
 
 <img src="https://img00.deviantart.net/58af/i/2012/093/a/c/la_brea_tar_pits_by_felipenn-d4uxy05.jpg" width="400">
 
-+++
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 *different OS + third party software + updates/upgrades + redeployment* → 
  <span style="font-weight: bold; font-size: 100%; color:#FF0000">_Dependency Hell_ </span> 
@@ -72,12 +73,13 @@
 
  <span style="font-weight: bold; font-size: 50%; color:#FF0000"> Source: XKCD.com, E. Dolstra 2006 https://nixos.org/~eelco/pubs/phd-thesis.pdf </span> 
 
-+++
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 ## Change is scary
 <img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="500">
 
-+++
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
+
 @snap[north-west]
 ##### Version Control with Git
 @fab[git fa-lg] @fab[github fa-lg] @fab[gitlab fa-lg]
@@ -92,7 +94,8 @@
 @ulend
 @snapend
 
-+++
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
+
 <img src="https://media.giphy.com/media/ize2r20ICQONq/giphy.gif" width="500">
 ## really?
 
@@ -105,7 +108,7 @@ Data Science
 Domain Science 
 @snapend
 
-+++
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 @snap[north-west]
 Productivity Software
@@ -120,12 +123,13 @@ Productivity Software
 @ulend
 @snapend
 
-+++
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
+
 ## Don't take to long 
 <img src="https://media.giphy.com/media/3rgXBAKopU55wtfp6g/giphy.gif" width 500>
 ### Pick what your team needs and go
 
-+++
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 ---?image=https://media.giphy.com/media/WoD6JZnwap6s8/giphy.gif
 ### Welcome to the digital world
@@ -140,7 +144,7 @@ Yep.
 Don't Panic
 @snapend
 
-+++
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 @snap[north-west]
 Project Management
@@ -157,13 +161,13 @@ Project Management
 ---?image=https://media.giphy.com/media/wUCgLRvDdtWs8/giphy.gif
 # Have Data, Will Travel
 
-+++
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 ### Building the "best" workflows and pipelines takes time and experience
 
 <img src="https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/edgeoftomorrow-livedierepeat-cruise-blunt-postercrop.jpg" width="800">
 
-+++
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 ### Getting stuff done.
 
@@ -172,7 +176,7 @@ Project Management
 
 <span style="font-size: 200%; color:#58FF33"> → 3) Do the things well. <!-- .element: class="fragment" -->
 
----
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 ---?image=https://media.giphy.com/media/uKpWZU3VXLprW/giphy.gif
 @snap[north text-white]
