@@ -1,10 +1,9 @@
 ---?video=https://data.cyverse.org/dav-anon/iplant/home/tswetnam/train_to_graz.mp4
-@snap[north span-100 text-center font-cabin text-blue]
-@fa[quote-left quote-graphql quote-right](What are you proposing?)
-![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
-<span style="font-weight: bold; font-size: 100%; color:#ffffff"> November 19, 2019 </span> 
 
-<span style="font-weight: bold; font-size: 120%; color:#ffffff"> Tyson L. Swetnam </span>
+@snap[north span-100 text-center font-cabin text-blue]
+![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
+November 19, 2019
+Tyson L. Swetnam 
 @snapend 
 
 +++
