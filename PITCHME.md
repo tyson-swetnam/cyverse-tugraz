@@ -2,8 +2,12 @@
 
 @snap[north span-100 text-center font-cabin text-blue]
 ![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
-November 19, 2019
-Tyson L. Swetnam 
+
+### CyVerse Austria 
+
+##### November 19, 2019
+##### Tyson L. Swetnam 
+
 @snapend 
 
 +++
