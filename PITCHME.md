@@ -55,7 +55,7 @@
 
 @snap[north-west span-33]
 @fa[quote-graphql font-montserrat text-black text-11](Basics of Linux Distributions)
-@fab[linux fa-lg] @fab[ubuntu fa-lg] @fab[centos fa-lg] 
+@fab[linux fa-lg] @fab[ubuntu fa-lg] @fab[centos fa-lg] @fab[suse fa-lg] @fab[redhat fa-lg] @fab[fedora fa-lg]
 @snapend
 
 @snap[west span-33 fragment]
@@ -76,7 +76,7 @@
 @snapend
 
 @snap[south-east span-50 fragment]
-@fa[quote-graphql font-montserrat text-white text-11](Windows Subsystem for Linux 2 (WSL2))
+@fa[quote-graphql font-montserrat text-white text-11](Windows Subsystem for Linux 2 "WSL2")
 @snapend
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
