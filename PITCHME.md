@@ -30,7 +30,7 @@
 
 ---?image=https://media.giphy.com/media/YDj8Ot6mIbJYs/giphy.gif
 
-@snap[midpoint fragment]
+@snap[north fragment]
 @fa[quote-graphql font-montserrat text-white text-11](Just kidding, this is a part of the talk) 
 @snapend
 
