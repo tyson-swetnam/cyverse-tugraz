@@ -24,6 +24,11 @@
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
+<img src="https://media.giphy.com/media/ize2r20ICQONq/giphy.gif" width="600">
+@fa[quote-graphql font-montserrat text-white text-11 fragment](really?)
+
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
+
 @fa[quote-graphql font-montserrat text-black text-12](Why are YOU here?)
 
 <img src="https://media.giphy.com/media/b7MdMkkFCyCWI/giphy.gif" height="500">
@@ -104,30 +109,24 @@
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 @snap[north-west]
-##### Version Control with Git
+@fa[quote-graphql font-montserrat text-black text-11](Version Control with Git)
 @fab[git fa-lg] @fab[github fa-lg] @fab[gitlab fa-lg]
 @snapend
 
-@snap[west list-content-verbose span-100 text-white]
-@ul
-- Pro: Reproducibility, Redundancy
-- Pro: Collaboration
-- Con: Difficult to use (at first)
-- Con: Dependencies
-@ulend
+@snap[west span-33 fragment]
+@box[bg-green font-montserrat text-white text-09 rounded box-padding](Pros # Reproducibility, Redundancy, Collaboration)
 @snapend
 
----?color=linear-gradient(180deg, white 30%, #567AD2 50%)
-
-<img src="https://media.giphy.com/media/ize2r20ICQONq/giphy.gif" width="500">
-## really?
+@snap[south-west span-33 fragment]
+@box[bg-orange font-montserrat text-white text-09 rounded box-padding](Con # Steep learning curve)
+@snapend
 
 ---?image=https://media.giphy.com/media/1SMYk3HBzaK3e/giphy.gif
-@snap[west text-smallcaps text-white]
+@snap[south-west text-smallcaps text-white]
 Data Science 
 @snapend
 
-@snap[east text-smallcaps text-white]
+@snap[south-east text-smallcaps text-white]
 Domain Science 
 @snapend
 
@@ -139,8 +138,8 @@ Productivity Software
 
 @snap[west list-content-verbose span-100 text-white]
 @ul
-- Slack vs Gitter 
-- GitHub vs GitLab
+- @fab[slack fa-lg] vs @fab[gitter fa-lg]
+- @fab[github fa-lg] vs @fab[gitlab fa-lg]
 - ReadTheDocs vs Bookdown vs GitHub Pages
 - QUBES vs Protocols.io
 @ulend
