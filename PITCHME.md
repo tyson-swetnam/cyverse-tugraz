@@ -2,18 +2,15 @@
 
 @snap[north span-100 text-center font-cabin text-blue]
 ![GRAPHQL](/assets/imagery/cyverse_cmyk.png)
-
-### CyVerse Austria 
-
+### TU Graz, Austria 
 ##### November 19, 2019
 ##### Tyson L. Swetnam 
-
 @snapend 
 
-+++
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 @snap[north]
-Key Concepts
+### Key Concepts
 @snapend
 
 @snap[midpoint list-content-verbose span-100 text-white]
@@ -25,7 +22,7 @@ Key Concepts
 @ulend
 @snapend
 
-+++
+---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 ## Why are YOU here?
 
@@ -40,27 +37,26 @@ Key Concepts
 
 ##### Modern web, cloud, and HPC are dominated by Linux and its derivatives
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" height="300"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" height="300">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_Wide_Smartphone_Sales.png" height="400"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Operating_systems_used_on_top_500_supercomputers.svg/1280px-Operating_systems_used_on_top_500_supercomputers.svg.png" height="400">
 
 <span style="font-weight: bold; font-size: 50%; color:#ffffff"> source: https://en.wikipedia.org/wiki/Usage_share_of_operating_systems </span>
 
----?color=linear-gradient(180deg, white 30%, #567AD2 50%)
-
-
-@snap[north]
-Basics of Linux Distributions
+@snap[north-west span-33]
+##### Basics of Linux Distributions
+@fab[linux fa-lg] @fab[ubuntu fa-lg] @fab[centos fa-lg] 
 @snapend
 
-@snap[west list-content-verbose span-50 text-white]
-@ul
-- Pro: Open Source (Free!)
-- Pro: Infinitely Customizable 
-- Con: Difficult to use (at first)
-- Con: Dependencies
-@ulend
+@snap[west span-33 fragment]
+@box[bg-green text-white rounded box-padding](Pro # Open Source, Infinitely Customizable)
 @snapend
+
+@snap[south-west span-33 fragment]
+@box[bg-orange text-white rounded box-padding](Con # Difficult to use, Dependencies)
+@snapend
+
 
 +++
+
 [Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
 
 **54. Beware of the Turing Tarpit in which everything is possible but nothing of interest is easy.**
@@ -82,9 +78,9 @@ Basics of Linux Distributions
 <img src="https://media.giphy.com/media/GkQBupPcf5b1e/giphy.gif" height="500">
 
 +++
-
 @snap[north-west]
-Version Control with Git
+##### Version Control with Git
+@fab[git fa-lg] @fab[github fa-lg] @fab[gitlab fa-lg]
 @snapend
 
 @snap[west list-content-verbose span-100 text-white]
