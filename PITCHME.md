@@ -206,18 +206,19 @@ Project Management
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
-### Getting stuff done.
+@snap[north span-100]
+@fa[quote-graphql font-montserrat text-black text-18](Getting stuff done.)
 
 @snap[west span-33]
-@fa[quote-graphql font-montserrat text-yellow text-13](Do the things)
+@fa[quote-graphql font-montserrat text-red text-15](Do the things.)
 @snapend
 
 @snap[midpoint span-33 fragment]
-@fa[quote-graphql font-montserrat text-white text-13]( Do the things right)
+@fa[quote-graphql font-montserrat text-yellow text-15]( Do the things right.)
 @snapend
 
 @snap[east span-33 fragment]
-@fa[quote-graphql font-montserrat text-white text-13]( Do the things well!)
+@fa[quote-graphql font-montserrat text-green text-15]( Do the things well!)
 @snapend
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
