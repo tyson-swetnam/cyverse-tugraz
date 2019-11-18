@@ -66,6 +66,19 @@
 @box[bg-orange font-montserrat text-white text-09 rounded box-padding](Con # Difficult to use, Dependencies)
 @snapend
 
+@snap[north-east span-33 fragment]
+@fa[quote-graphql font-montserrat text-black text-11](Run in Windows)
+@fab[windows fa-lg]
+@snapend
+
+@snap[east span-50 fragment]
+<img src="https://images.anandtech.com/doci/11401/wsl.png" height="400">
+@snapend
+
+@snap[south-east span-50 fragment]
+@fa[quote-graphql font-montserrat text-white text-11](Windows Subsystem for Linux 2 (WSL2))
+@snapend
+
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
 [Alan Perlis, 1982 Epigrams on Programming](https://web.archive.org/web/19990117034445/http://www-pu.informatik.uni-tuebingen.de/users/klaeren/epigrams.html)
