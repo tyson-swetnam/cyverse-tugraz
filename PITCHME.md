@@ -13,7 +13,7 @@
 @fa[quote-graphql font-montserrat text-black text-14](Key Concepts)
 @snapend
 
-@snap[midpoint list-content-verbose span-100 font-montserrat text-white text-09]
+@snap[midpoint list-content-verbose span-100 font-montserrat text-black text-09]
 @ul
 - Communication
 - Websites and Documentation
