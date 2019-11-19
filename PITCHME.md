@@ -144,7 +144,7 @@ Project Management
 @snapend
 
 @snap[south span-100 fragment]
-@fa[quote-graphql font-montserrat text-black text-11](Welcome to the wonderful world of  brave colorful new place)
+@fa[quote-graphql font-montserrat text-black text-11](Not in your computer anymore)
 @snapend
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
@@ -188,6 +188,7 @@ Data Science
 Domain Science 
 @snapend
 
++++
 
 ### Building the "best" workflows and pipelines takes time and experience
 
