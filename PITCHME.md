@@ -49,8 +49,8 @@ Productivity Software
 
 @snap[west list-content-verbose span-50 text-black fragment]
 @ul
-- Communication: Slack @fab[slack fa-lg] or Gitter @fab[gitter fa-lg] or Discord @fab[discord fa-lg] or Mattermost or Mastodon @fab[mastodon fa-lg]
-- Organization: Confluence @fab[confluence fa-lg] or Jira @fab[jira fa-lg] or Github @fab[github-square fa-lg]
+- **Communication**: Slack @fab[slack fa-lg] or Gitter @fab[gitter fa-lg] or Discord @fab[discord fa-lg] or Mattermost or Mastodon @fab[mastodon fa-lg]
+- **Organization**: Confluence @fab[confluence fa-lg] or Jira @fab[jira fa-lg] or Github @fab[github-square fa-lg]
 @ulend
 @snapend
 
@@ -59,9 +59,9 @@ Project Management
 @snapend
 
 @snap[east list-content-verbose span-50 text-black fragment]
-- Version Control GitHub @fab[github fa-lg] or GitLab @fab[gitlab fa-lg] or BitBucket @fab[bitbucket fa-lg]
-- Documentation: ReadTheDocs vs Bookdown vs GitHub Pages
-- Training: QUBES vs Protocols.io
+- **Version Control**: GitHub @fab[github fa-lg] or GitLab @fab[gitlab fa-lg] or BitBucket @fab[bitbucket fa-lg]
+- **Documentation**: ReadTheDocs vs Bookdown vs GitHub Pages
+- **Training**: QUBES vs Protocols.io
 
 ---?color=linear-gradient(180deg, white 30%, #567AD2 50%)
 
